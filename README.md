@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yawar27 
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Machine Learing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Ml project
 - 📫 Feel Free to reach me given below e-mail
 -     yawarkhan277@gmail.com
       yawarkhan640@outlook.com
